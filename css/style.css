@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css?family=Mina');
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: #000;
+  text-align: center;
+}
+
+canvas {
+  border: 1px solid black;
+  margin: 50px auto;
+}
